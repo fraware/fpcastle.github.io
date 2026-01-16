@@ -92,6 +92,7 @@ Until I get FP Castle formally launched as a company I am accepting "members in 
 * Armando Santos
 * Artem Pelenitsyn
 * Aslan Askarov
+* Azalea Raad
 * Ben Blaxill
 * Ben Gamari
 * Ben Laurie
