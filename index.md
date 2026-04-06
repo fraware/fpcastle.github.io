@@ -236,6 +236,7 @@ Until I get FP Castle formally launched as a company I am accepting "members in 
 * Robert Grimm
 * Rolf Neugebauer
 * Roy Peter D'Souza
+* Rustan Leino
 * Sacha-Élie Ayoun
 * Salar Rahmanian
 * Sam Elliott
